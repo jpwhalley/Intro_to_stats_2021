@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604312240908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2291685182",
+    "id" : "CAA3B712",
+    "lastKnownWriteTime" : 1604501393,
+    "last_content_update" : 1604501393130,
+    "path" : "~/Dropbox/academic/teaching/2020_Introduction_to_Statistics/e3_dim_reduction/ex3b_expression_data_pca.R",
+    "project_path" : "ex3b_expression_data_pca.R",
+    "properties" : {
+        "cursorPosition" : "127,0",
+        "scrollLine" : "114"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
