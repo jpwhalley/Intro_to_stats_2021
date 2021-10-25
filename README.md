@@ -67,6 +67,7 @@ Papers
         with or without a macrolide for treatment of COVID-19: a
         multinational registry
         analysis](https://doi.org/10.1016/S0140-6736(20)31180-6)
+    -   Fraud in lower impact journals: [The Real Scandal About Ivermectin](https://www.theatlantic.com/science/archive/2021/10/ivermectin-research-problems/620473/)
 
 [](https://github.com/jpwhalley/GMS_Stats_Course/tree/master/1_Introduction_to_Statistics#blocks)Blocks
 -------------------------------------------------------------------------------------------------------
